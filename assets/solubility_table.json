@@ -1,0 +1,26 @@
+{
+    "solubilityTable": {
+      "cations": ["H+", "NH4+", "K+", "Na+", "Ca2+", "Mg2+", "Ba2+", "Fe2+", "Cu2+", "Ag+"],
+      "anions": ["OH-", "NO3-", "F-", "Cl-", "Br-", "I-", "S2-", "SO3 2-", "SO4 2-", "CO3 2-", "PO4 3-"],
+      "data": [
+        ["S", "S", "S", "S", "S", "S", "S", "I", "I", "I"],  
+        ["S", "S", "S", "S", "S", "S", "S", "S", "S", "S"],  
+        ["S", "S", "S", "S", "I", "S", "S", "I", "I", "S"],  
+        ["S", "S", "S", "S", "S", "S", "S", "S", "I", "I"],  
+        ["S", "S", "S", "S", "S", "S", "S", "S", "I", "I"],  
+        ["S", "S", "S", "S", "S", "S", "S", "S", "I", "I"], 
+        ["S", "S", "I", "I", "I", "I", "S", "I", "I", "I"],
+        ["S", "S", "I", "I", "S", "I", "I", "I", "I", "I"],  
+        ["S", "S", "S", "S", "I", "S", "S", "I", "I", "I"], 
+        ["I", "S", "I", "I", "I", "I", "I", "I", "I", "I"],  
+        ["I", "S", "I", "I", "I", "I", "I", "I", "I", "I"]   
+      ],
+      "legend": {
+        "S": "Soluble",
+        "I": "Insoluble",
+        "-": "Not Applicable"
+      },
+      "notes": "This table represents the general solubility rules for common ions in water. Exceptions may apply in specific conditions."
+    }
+  }
+  
